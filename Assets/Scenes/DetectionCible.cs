@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class DetectionCible : MonoBehaviour
 {
-    [SerializeField] private float delayTime = 4f;
+    [SerializeField] private float delayTime = 5f;
     private float timeElapsed = 0f;
     private bool startTimer = false;
 

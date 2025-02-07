@@ -7,6 +7,10 @@ TagManager:
   - Destroy
   - cible
   - Cible
+  - Balance
+  - plateforme
+  - Platforme
+  - Plateforme
   layers:
   - Default
   - TransparentFX
@@ -15,7 +19,7 @@ TagManager:
   - Water
   - UI
   - Boule
-  - 
+  - bloc
   - 
   - 
   - 
