@@ -5,14 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Destroy
+  - cible
+  - Cible
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Cible
   - Water
   - UI
-  - 
+  - Boule
   - 
   - 
   - 
